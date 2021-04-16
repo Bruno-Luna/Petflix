@@ -1,0 +1,43 @@
+:root{
+    --vermelho: #E50914;
+    --preto: #141414;
+} 
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--preto);
+    font-family: 'Sans-Serif', Times;
+}
+
+h1{
+    color: var(--vermelho);
+    font-family: 'Arial Black', Times;
+    font-size: 45px;
+    margin-left: 1rem;
+    
+}
+
+header nav a{
+    color: #aaa;
+    padding: 1rem;
+    
+    
+   
+}
+header nav a:hover{
+    color: #fff;
+}
+header .container{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   
+    
+}
