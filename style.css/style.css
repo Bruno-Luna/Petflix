@@ -14,7 +14,9 @@
 body{
     background-color: var(--preto);
     font-family: 'Sans-Serif', Times;
+    color: #fff;
 }
+/* TOPO */
 
 h1{
     color: var(--vermelho);
@@ -27,17 +29,45 @@ h1{
 header nav a{
     color: #aaa;
     padding: 1rem;
-    
-    
-   
 }
+
 header nav a:hover{
     color: #fff;
 }
+
 header .container{
    display: flex;
    align-items: center;
    justify-content: space-between;
-   
+}
+
+/* PRINCIPAL */
+
+.filme-principal{
+    border: 1px solid green;
+    font-size: 18px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa.jpg');
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.button{
     
+       
+}
+
+.filme-principal .sinopse{
+    margin-bottom: 2rem;
+
+}
+
+.botoes{
+    margin-top: 2rem;
+}
+
+.titulo{
+    font-size: 40px;
 }
