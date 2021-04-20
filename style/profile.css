@@ -1,0 +1,79 @@
+:root{
+    --vermelho: #E50914;
+    --preto: #141414;
+} 
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--preto);
+    font-family: 'Arial', Times;
+    color: #fff;
+}
+/* TOPO */
+
+h1{
+    color: var(--vermelho);
+    font-family: 'Arial Black', Times;
+    font-size: 45px;
+    margin: 1rem;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+
+}
+
+div.box {
+	width: 230px;
+	display: inline-block;
+}
+
+.box img {
+    width: 60%;
+    margin-left: 38%;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+img:hover{
+    opacity: 0.5;
+}
+
+span{
+    margin-left: 5rem;
+    color: #fff;
+    
+}
+
+/* Responsividade */
+
+@media screen and (max-width:700px) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .button{
+        margin-top: 1rem;
+        margin-bottom: 0.50rem;
+        width: 15rem;
+
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .sinopse{
+        width: 50%;
+    }
+}
