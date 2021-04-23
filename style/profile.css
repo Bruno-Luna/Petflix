@@ -13,8 +13,6 @@
 
 body{
     background-color: var(--preto);
-    font-family: 'Arial', Times;
-    color: #fff;
 }
 /* TOPO */
 
@@ -29,20 +27,26 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 4rem;
     font-size: 30px;
-
+    font-family: 'Arial', Times;
+    color: #fff;
 }
 
 div.box {
-	width: 230px;
+	width: 200px;
 	display: inline-block;
 }
 
+.box-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 .box img {
-    width: 60%;
-    margin-left: 38%;
-    margin-top: 2rem;
-    margin-bottom: 0.5rem;
+    width: 70%;  
+    transform:translate(55%); 
     cursor: pointer;
     opacity: 0.9;
 }
@@ -52,28 +56,42 @@ img:hover{
 }
 
 span{
-    margin-left: 5rem;
+    display: flex;
+    justify-content: center;
+    margin: 0.30rem;
+    padding-left: 2rem;
+    font-size: 21px;
+    font-family: 'Arial', Times;
     color: #fff;
-    
 }
 
 /* Responsividade */
 
-@media screen and (max-width:700px) {
-    header .container{
-        display: flex;
-        flex-direction: column;
-    }
-    .button{
-        margin-top: 1rem;
-        margin-bottom: 0.50rem;
-        width: 15rem;
+@media screen and (max-width:970px) {
 
+    nav .box{
+        width: 45%;
     }
-}
 
-@media screen and (min-width:1000px) {
-    .sinopse{
-        width: 50%;
+    .box-container {
+        
+    }
+
+    .box img{
+        width: 60%;
+        float:inline-start;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    span{
+        margin-bottom: 2rem; 
+    }
+
+    p{
+        margin-bottom: 2rem; 
+        
     }
 }
