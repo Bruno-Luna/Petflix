@@ -92,8 +92,8 @@ Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi des
 
 #### Mobile-I:
 
-![]()
+![](https://github.com/Bruno-Luna/Petflix/blob/master/layout/petflix-mobile-I.gif)
 
 #### Mobile-II:
 
-![]()
+![](https://github.com/Bruno-Luna/Petflix/blob/master/layout/petflix-mobile-II.gif)
