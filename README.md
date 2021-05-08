@@ -28,7 +28,7 @@ Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi des
         	- owl.theme.default.min.css
     - layout/
       	- petflix-desktop.gif
-      	- petflix.mobile.mp4
+          	- petflix.mobile.mp4
    - img/
 
      - capa.jpg
@@ -83,3 +83,12 @@ Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi des
 
 
 
+#### Desktop:
+
+![](https://github.com/Bruno-Luna/Petflix/blob/master/layout/petflix-desktop.gif)
+
+
+
+#### Mobile:
+
+![](https://github.com/Bruno-Luna/Petflix/blob/master/layout/petflix-mobile.mp4)
