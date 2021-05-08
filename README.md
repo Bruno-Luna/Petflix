@@ -12,14 +12,14 @@ Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi des
 - index.html
    - usuario.html
 - js/
-  
+
   - script.js
      - script_carousel.js
   - owl_carousel/
        	- jquery.min
        	- owl.carousel.min
     - style/
-  
+
       - style.css
    - profile.css
       - owl_carousel/
@@ -27,8 +27,9 @@ Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi des
         	- owl.carousel.min.css
         	- owl.theme.default.min.css
     - layout/
-      	- petflix-desktop.gif
-          	- petflix.mobile.mp4
+        - petflix-desktop.gif
+        - petflix-mobile-I.gif
+        - petflix-mobile-II.gif
    - img/
 
      - capa.jpg
@@ -56,13 +57,13 @@ Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi des
      - mini7.jpg
      - mini8.jpg
      - mini9.jpg
-  
+
       - profile/
         	- one.png
            	- two.png
      	- three.png
            	- four.png
-  
+
      - favicon/
        - favicon-32x32.png
 
@@ -89,6 +90,10 @@ Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi des
 
 
 
-#### Mobile:
+#### Mobile-I:
 
-![](https://github.com/Bruno-Luna/Petflix/blob/master/layout/petflix-mobile.mp4)
+![]()
+
+#### Mobile-II:
+
+![]()
