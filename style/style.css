@@ -32,9 +32,14 @@ header nav a{
 }
 nav i{
     color: rgb(188, 188, 188);
+    
 }
 header nav i:hover{
     color: #fff;
+}
+
+i.fa-search{
+    cursor: pointer;
 }
 
 header nav a:hover{
