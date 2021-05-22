@@ -49,6 +49,7 @@ div.box {
     transform:translate(55%); 
     cursor: pointer;
     opacity: 0.9;
+    border-radius: 10%;
 }
 
 img:hover{

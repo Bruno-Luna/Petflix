@@ -4,7 +4,7 @@ Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi des
 
 ![APM](https://img.shields.io/apm/l/vim-mode?color=blue)
 
-#### :tada:  *Link:*
+### :tada:  *Link:*
 
 https://bruno-luna.github.io/Petflix/ 
 
@@ -15,9 +15,8 @@ https://bruno-luna.github.io/Petflix/
     - readme.md
 
     - index.html
-    - profile.html
+    - movie.html
     - js/
-      - script.js
       - script_carousel.js
       - owl_carousel/
         - jquery.min
@@ -73,26 +72,11 @@ https://bruno-luna.github.io/Petflix/
        - favicon/
          - favicon-32x32.png
 
-## Especificações:
+### Especificações:
 
-  
+  *Fontes utilizadas*: `Arial Black`, `Times`, `Trebuchet MS`, `Arial`, `Sans-serif.`
 
-| Fontes utilizadas: |
-| :----------------: |
-|                    |
-|  `Arial Black; `   |
-|      `Times;`      |
-|  `Trebuchet MS; `  |
-|     `Arial; `      |
-|   `Sans-serif.`    |
+ *Cores utilizadas:* `Branco:  #fff`, `Vermelho: #E50914`,`Preto #141414`, `rgba(31, 31, 31, 0.455),` `#000`, `Cinza: rgb(188, 188, 188).`
 
 
-
-|                  Cores utilizadas:                  |
-| :-------------------------------------------------: |
-|                                                     |
-|                  Branco:  `#fff`;                   |
-|                Vermelho: `#E50914;`                 |
-| Preto `#141414`, `rgba(31, 31, 31, 0.455),` `#000`; |
-|            Cinza: `rgb(188, 188, 188);`             |
 
