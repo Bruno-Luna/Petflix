@@ -1,6 +1,6 @@
 # **Petflix** 
 
-Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi desenvolvido uma página responsiva similar à netflix, utilizando as tecnologias: _HTML, CSS e JS_. Neste projeto pessoal foi dado o nome de **Petflix**, uma vez que ele está voltado para o conteúdo do universo animal, dentre eles: filmes, desenhos, séries e documentários. 
+Por meio do bootcamp *'HTML Web Developer'* da *Digital Innovation One*, foi desenvolvido uma página responsiva similar à netflix, utilizando as tecnologias: _HTML, CSS e JQuery_. Neste projeto pessoal foi dado o nome de **Petflix**, uma vez que ele está voltado para o conteúdo do universo animal, dentre eles: filmes, desenhos, séries e documentários. 
 
 ![APM](https://img.shields.io/apm/l/vim-mode?color=blue)
 
